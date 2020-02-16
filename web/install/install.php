@@ -13,7 +13,7 @@
 
                 <b>MySql details</b>
                 <div class="input-field form-group required">
-                    <input class="form-control validate" type="text" value="localhost" name="mysql_host" id="mysql_host" required />
+                    <input class="form-control validate" type="text" name="mysql_host" id="mysql_host" required />
                     <label for="mysql_host">MySQL host</label>
                 </div>
 
